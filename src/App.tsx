@@ -238,7 +238,7 @@ function App() {
               <div className="flex gap-4">
                 <a href="#" className="w-10 h-10 rounded-full glass flex items-center justify-center hover:bg-purple-500/20"><Github size={20} /></a>
                 <a href="#" className="w-10 h-10 rounded-full glass flex items-center justify-center hover:bg-purple-500/20"><Twitter size={20} /></a>
-                <a href="#" className="w-10 h-10 rounded-full glass flex items-center justify-center hover:bg-purple-500/20"><Linkedin size={20} /></a>
+                <a href="https://www.linkedin.com/company/zeravatech/" className="w-10 h-10 rounded-full glass flex items-center justify-center hover:bg-purple-500/20"><Linkedin size={20} /></a>
               </div>
             </div>
             <div>
