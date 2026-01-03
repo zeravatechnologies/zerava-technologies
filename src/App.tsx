@@ -106,7 +106,7 @@ function App() {
             transition={{ duration: 0.8 }}
           >
             <div className="inline-flex items-center gap-2 px-4 py-1 rounded-full bg-purple-500/10 border border-purple-500/20 text-purple-400 text-sm font-medium mb-6">
-              <Zap size={14} />
+              <Zap size={16} />
               <span>Next-Gen AI Solutions</span>
             </div>
             <h1 className="text-5xl md-text-7xl font-extrabold mb-6 leading-tight">
